@@ -1,4 +1,4 @@
-Business websites using HTML, CSS , JS and templatoHTml5.
+Business websites using HTML, CSS , JS and templatoHTML5.
 
 you can view and order some food xD from the websites below:
 
